@@ -2,7 +2,7 @@
 
 ## Motivation
 
-The motivation for this project is to build a text editor that runs in the browser and is a progressive web application. I will be implementing code for the client side of this application as the server-side has been provided already.The web application will have persistent data.
+The motivation for this project is to build a text editor that runs in the browser and is a progressive web application. I will be implementing code for the client side of this application as the server-side has been provided already. The web application will have persistent data.
 
 In completing this project, I have learned the basic concepts of utilizing web packages.
 
