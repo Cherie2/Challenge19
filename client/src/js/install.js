@@ -14,7 +14,7 @@ butInstall.addEventListener("click", async (event) => {
   butInstall.textContent = "Installed!";
 });
 
-// Add an handler for the `appinstalled` event
+// Add a handler for the `appinstalled` event
 window.addEventListener("appinstalled", (event) => {
   textHeader.textContent = "Successfully installed!";
   console.log("👍", "appinstalled", event);
